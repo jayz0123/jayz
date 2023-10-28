@@ -20,9 +20,10 @@
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regnnighe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Junhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=regnnighe&show_icons=true&theme=tokyonight&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regnnighe&layout=compact" alt="Top Languages" height="265" />
+  <img src="https://github-readme-stats.vercel.app/api?username=regnnighe&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)" alt="GitHub Stats" height="265" />
+</p>
 
 ## 🏆 GitHub Activity Graph
 
