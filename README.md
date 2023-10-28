@@ -18,12 +18,18 @@
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia)
 ![HIP](https://img.shields.io/badge/-HIP-0071C5?style=flat-square&logo=amd)
 
+## 📊 My Weekly Development Breakdown
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=regnnighe)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regnnighe&layout=compact" alt="Top Languages" height="265" />
-  <img src="https://github-readme-stats.vercel.app/api?username=regnnighe&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)" alt="GitHub Stats" height="265" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=regnnighe" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=regnnighe&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 🏆 GitHub Activity Graph
 
@@ -36,11 +42,5 @@
 ## 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=regnnighe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 📊 My Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
