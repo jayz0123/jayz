@@ -1,16 +1,14 @@
 # Hello, I'm Junhao Zhang! 👋
 
-I'm a Machine Learning Software Engineer at AMD and an alumnus of Imperial College London. I'm passionate about deep learning, high-performance computing, and leveraging the power of GPUs.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Junhao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhao-zh/)](https://www.linkedin.com/in/junhao-zh/)
-[![GitHub followers](https://img.shields.io/github/followers/regnnighe?label=Follow&style=social)](https://github.com/regnnighe)
-
 ## 🚀 About Me
 - 🎓 **Alumnus of Imperial College London**  
 - 💼 **Machine Learning Software Engineer** at **AMD**  
 - 🌱 I’m highly skilled in C++ and Python.
 - 🔭 I have deep knowledge of PyTorch/LibTorch, CUDA, and HIP.
 - 📫 How to reach me: regnnighe@gmail.com.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Junhao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhao-zh/)](https://www.linkedin.com/in/junhao-zh/)
+[![GitHub followers](https://img.shields.io/github/followers/regnnighe?label=Follow&style=social)](https://github.com/regnnighe)
 
 ## 🛠 Tech Stack
 
@@ -20,6 +18,16 @@ I'm a Machine Learning Software Engineer at AMD and an alumnus of Imperial Colle
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia)
 ![HIP](https://img.shields.io/badge/-HIP-0071C5?style=flat-square&logo=amd)
 
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regnnighe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Junhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=regnnighe&show_icons=true&theme=tokyonight&count_private=true)
+
+## 🏆 GitHub Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=regnnighe&theme=react)](https://github.com/regnnighe/github-readme-activity-graph)
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=regnnighe&theme=radical)
@@ -28,9 +36,6 @@ I'm a Machine Learning Software Engineer at AMD and an alumnus of Imperial Colle
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=regnnighe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 GitHub Stats
-
-![Junhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=regnnighe&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 📊 My Weekly Development Breakdown
 
