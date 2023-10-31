@@ -23,6 +23,16 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=regnnighe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```c++
+From: 27 October 2023 - To: 30 October 2023
+
+Total Time: 0 secs
+
+Markdown   0 secs          ███████████████▓░░░░░░░░░   62.53 %
+Git        0 secs          █████████▒░░░░░░░░░░░░░░░   37.47 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📈 GitHub Stats
