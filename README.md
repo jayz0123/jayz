@@ -25,13 +25,14 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 27 October 2023 - To: 31 October 2023
+From: 27 October 2023 - To: 01 November 2023
 
-Total Time: 17 mins
+Total Time: 2 hrs 27 mins
 
-Python     16 mins         ████████████████████████▓   98.00 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+C++        1 hr 34 mins    ███████████████▒░░░░░░░░░   61.25 %
+Python     42 mins         ███████░░░░░░░░░░░░░░░░░░   27.44 %
+CSV        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Other      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
