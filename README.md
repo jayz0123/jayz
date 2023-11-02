@@ -40,22 +40,22 @@ Other      6 mins          █░░░░░░░░░░░░░░░░�
 ## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=regnnighe" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howiejayz" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=regnnighe&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=howiejayz&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 🏆 GitHub Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=regnnighe&theme=react)](https://github.com/regnnighe/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=howiejayz&theme=react)](https://github.com/howiejayz/github-readme-activity-graph)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=regnnighe&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=howiejayz&theme=radical)
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=regnnighe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=howiejayz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
