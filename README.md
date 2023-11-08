@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 27 October 2023 - To: 06 November 2023
+From: 27 October 2023 - To: 07 November 2023
 
 Total Time: 5 hrs 8 mins
 
