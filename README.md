@@ -20,7 +20,7 @@
 
 ## 📊 My Weekly Development Breakdown
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=regnnighe)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howiejayz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
