@@ -22,7 +22,6 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          CODE_LANG: c++ # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
@@ -35,4 +34,4 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: Junhao_Zhang # optional
-          AUTHOR_EMAIL: regnnighe@gmail.com # optional
+          AUTHOR_EMAIL: howiejayzh@gmail.com # optional
