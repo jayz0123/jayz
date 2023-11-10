@@ -5,7 +5,7 @@
 - 💼 **Machine Learning Software Engineer** at **AMD**  
 - 🌱 I’m highly skilled in C++ and Python.
 - 🔭 I have deep knowledge of PyTorch/LibTorch, CUDA, and HIP.
-- 📫 How to reach me: regnnighe@gmail.com.
+- 📫 How to reach me: howiejayzh@gmail.com.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Junhao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhao-zh/)](https://www.linkedin.com/in/junhao-zh/)
 [![GitHub followers](https://img.shields.io/github/followers/howiejayz?label=Follow&style=social)](https://github.com/howiejayz)
