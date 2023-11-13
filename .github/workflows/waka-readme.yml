@@ -26,8 +26,6 @@ jobs:
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           COMMITTER_NAME: GitHubActionBot # optional
