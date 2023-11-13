@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2023 - To: 11 November 2023
+From: 28 October 2023 - To: 12 November 2023
 
-Total Time: 8 hrs 4 mins
+Total Time: 11 hrs 54 mins
 
-Python     2 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   30.99 %
-C++        2 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
-Docker     2 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
-Other      50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Python     4 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   35.50 %
+Docker     3 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
+C++        2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+Other      50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 ```
 
 <!--END_SECTION:waka-->
