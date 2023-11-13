@@ -7,6 +7,7 @@
 - 🔭 I have deep knowledge of PyTorch/LibTorch, CUDA, and HIP.
 - 📫 How to reach me: howiejayzh@gmail.com.
 
+[![wakatime](https://wakatime.com/badge/user/018b75d5-bdbf-4b28-954d-7c590ade7f91.svg)](https://wakatime.com/@018b75d5-bdbf-4b28-954d-7c590ade7f91)
 [![Linkedin Badge](https://img.shields.io/badge/-Junhao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhao-zh/)](https://www.linkedin.com/in/junhao-zh/)
 [![GitHub followers](https://img.shields.io/github/followers/howiejayz?label=Follow&style=social)](https://github.com/howiejayz)
 
