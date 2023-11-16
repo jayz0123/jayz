@@ -1,27 +1,34 @@
 # Hello, I'm Junhao Zhang! 👋
+[![wakatime](https://wakatime.com/badge/user/018b75d5-bdbf-4b28-954d-7c590ade7f91.svg)](https://wakatime.com/@018b75d5-bdbf-4b28-954d-7c590ade7f91)
+[![GitHub followers](https://img.shields.io/github/followers/howiejayz?label=Follow&style=social)](https://github.com/howiejayz)
 
 ## 🚀 About Me
 - 🎓 **Alumnus of Imperial College London**  
 - 💼 **Machine Learning Software Engineer** at **AMD**  
 - 🌱 I’m highly skilled in C++ and Python.
-- 🔭 I have deep knowledge of PyTorch/LibTorch, CUDA, and HIP.
-- 📫 How to reach me: howiejayzh@gmail.com.
+- 🔭 I have deep knowledge of PyTorch, CUDA, and HIP.
 
-[![wakatime](https://wakatime.com/badge/user/018b75d5-bdbf-4b28-954d-7c590ade7f91.svg)](https://wakatime.com/@018b75d5-bdbf-4b28-954d-7c590ade7f91)
-[![Linkedin Badge](https://img.shields.io/badge/-Junhao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhao-zh/)](https://www.linkedin.com/in/junhao-zh/)
-[![GitHub followers](https://img.shields.io/github/followers/howiejayz?label=Follow&style=social)](https://github.com/howiejayz)
+
+## 📫 How to Reach Me
+<div style="flex">
+      <a href="mailto:howiejayzh@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/junhao-zh/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia)
-![HIP](https://img.shields.io/badge/-HIP-0071C5?style=flat-square&logo=amd)
+<div style="inline-block">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,go,html,css,matlab,latex,git,docker,linux,bash,vim,arduino,qt,visualstudio,vscode,ps" alt="Tech Stack" /> 
+</div>
 
-## 📊 My Weekly Development Breakdown
+## 👷 Recently Projects
+- [Flash Attention](https://github.com/ROCmSoftwarePlatform/flash-attention): Implemented Flash Attention algorithm on AMD MI250 GPUs using PyTorch and Composable Kernel.
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howiejayz)](https://github.com/anuraghazra/github-readme-stats)
+## ⌨️ My Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -43,26 +50,5 @@ CSV          8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howiejayz" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=howiejayz&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-## 🏆 GitHub Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=howiejayz&theme=react)](https://github.com/howiejayz/github-readme-activity-graph)
-
-## 🔥 Streak Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=howiejayz&theme=radical)
-
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=howiejayz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
