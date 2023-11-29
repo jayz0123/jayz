@@ -22,7 +22,7 @@
 ## 🛠 Tech Stack
 
 <div style="inline-block">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,go,html,css,matlab,latex,git,docker,linux,bash,vim,arduino,qt,visualstudio,vscode,ps" alt="Tech Stack" /> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,go,html,css,tailwind,matlab,latex,md,git,github,docker,linux,bash,vim,raspberrypi,arduino,qt,stackoverflow,visualstudio,vscode,ps,linkedin" alt="Tech Stack" /> 
 </div>
 
 ## 👷 Recently Projects
