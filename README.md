@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,sklearn,opencv,go,html,css,js,ts,react,nextjs,tailwind,matlab,latex,md,git,github,githubactions,docker,linux,bash,vim,jenkins,raspberrypi,arduino,ros,qt,stackoverflow,visualstudio,vscode,pycharm,sublime,ps" alt="Tech Stack" /> 
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,sklearn,opencv,anaconda,go,html,css,js,ts,react,nextjs,tailwind,matlab,latex,md,git,github,githubactions,docker,linux,bash,vim,jenkins,raspberrypi,arduino,ros,qt,stackoverflow,visualstudio,vscode,clion,pycharm,sublime,ps" alt="Tech Stack" /> 
   </a>
 </p>
 
