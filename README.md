@@ -32,7 +32,7 @@
 </p>
 
 ## 👷 Recently Projects
-- [Flash Attention](https://github.com/ROCmSoftwarePlatform/flash-attention): Implemented Flash Attention algorithm on AMD MI250 GPUs using PyTorch and Composable Kernel.
+- [Flash Attention](https://github.com/ROCmSoftwarePlatform/flash-attention): Implemented Flash Attention algorithm on MI200/MI300 using PyTorch and Composable Kernel.
 
 ## ⌨️ My Development Breakdown
 
