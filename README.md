@@ -14,10 +14,10 @@
   <a href="mailto:howiejayzh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/junhao-zh/">
+  <a href="https://www.linkedin.com/in/junhao-zh/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
-  <a href="https://www.instagram.com/howiejayz/">
+  <a href="https://www.instagram.com/howiejayz/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </div>
