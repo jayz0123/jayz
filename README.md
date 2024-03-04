@@ -11,19 +11,25 @@
 
 ## 📫 How to Reach Me
 <div style="flex">
-      <a href="mailto:howiejayzh@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/junhao-zh/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+  <a href="mailto:howiejayzh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/junhao-zh/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+  </a>
+  <a href="https://www.instagram.com/howiejayz/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </div>
 
 ## 🛠 Tech Stack
 
-<div style="inline-block">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,go,html,css,tailwind,matlab,latex,md,git,github,docker,linux,bash,vim,raspberrypi,arduino,qt,stackoverflow,visualstudio,vscode,ps,linkedin" alt="Tech Stack" /> 
-</div>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,sklearn,opencv,go,html,css,js,ts,react,nextjs,tailwind,matlab,latex,md,git,github,githubactions,docker,linux,bash,vim,jenkins,raspberrypi,arduino,ros,qt,stackoverflow,visualstudio,vscode,pycharm,sublime,ps" alt="Tech Stack" /> 
+  </a>
+</p>
 
 ## 👷 Recently Projects
 - [Flash Attention](https://github.com/ROCmSoftwarePlatform/flash-attention): Implemented Flash Attention algorithm on AMD MI250 GPUs using PyTorch and Composable Kernel.
