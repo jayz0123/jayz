@@ -25,15 +25,11 @@
 
 ## 🛠 Tech Stack
 
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,sklearn,opencv,anaconda,go,html,css,js,ts,react,nextjs,tailwind,matlab,latex,md,git,github,githubactions,docker,linux,bash,vim,jenkins,raspberrypi,arduino,ros,qt,stackoverflow,visualstudio,vscode,clion,pycharm,sublime,ps" alt="Tech Stack" /> 
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,pytorch,tensorflow,sklearn,opencv,anaconda,go,html,svg,css,js,ts,nodejs,react,nextjs,tailwind,postgres,prisma,supabase,regex,matlab,latex,md,git,github,githubactions,docker,aws,linux,bash,vim,jenkins,raspberrypi,arduino,ros,qt,stackoverflow,ubuntu,windows,visualstudio,vscode,clion,pycharm,sublime,ps" alt="Tech Stack" /> 
   </a>
 </p>
-
-## 👷 Recently Projects
-- [Flash Attention](https://github.com/ROCmSoftwarePlatform/flash-attention): Implemented Flash Attention algorithm on MI200/MI300 using PyTorch and Composable Kernel.
 
 ## ⌨️ My Development Breakdown
 
