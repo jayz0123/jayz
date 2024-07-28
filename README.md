@@ -1,5 +1,5 @@
 # Hello, I'm Junhao Zhang! 👋
-![](https://komarev.com/ghpvc/?username=howiejayz)
+![profile views](https://komarev.com/ghpvc/?username=howiejayz)
 [![wakatime](https://wakatime.com/badge/user/018b75d5-bdbf-4b28-954d-7c590ade7f91.svg)](https://wakatime.com/@018b75d5-bdbf-4b28-954d-7c590ade7f91)
 [![GitHub followers](https://img.shields.io/github/followers/howiejayz?label=Follow&style=social)](https://github.com/howiejayz)
 
